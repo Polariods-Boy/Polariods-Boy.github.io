@@ -4,6 +4,6 @@
 
 สำหรับวิชา
 
-![download](./Shibar.jpg)
+![download](./Shiba.jpg)
 
 สหรัฐ เวียงแก้ว

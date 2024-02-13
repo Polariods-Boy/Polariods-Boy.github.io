@@ -1,4 +1,4 @@
-![banner](https://picsum.photos/200/300)
+![banner](https://picsum.photos/id/45/4592/2576)
 
 # สมุดบันทึก
 

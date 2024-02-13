@@ -4,6 +4,6 @@
 
 สำหรับวิชา OOP 
 
-![dowmload banner](./Shiba.jpg)
+![dowmload banner](./dog.jpg)
 
 สหรัฐ เวียงแก้ว

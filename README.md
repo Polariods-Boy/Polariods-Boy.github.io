@@ -2,6 +2,6 @@
 
 # สมุดบันทึก
 
-สำหรับวิชา ![OOP](www.google.com)
+สำหรับวิชา ![OOP][(https://wichit2s.gitlab.io)
 
 สหรัฐ เวียงแก้ว

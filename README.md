@@ -2,8 +2,8 @@
 
 # สมุดบันทึก
 
-สำหรับวิชา OOP
+สำหรับวิชา OOP 
 
-![doawnload banner](Shiba.jpg)
+![dowmload banner](./Shiba.jpg)
 
 สหรัฐ เวียงแก้ว
